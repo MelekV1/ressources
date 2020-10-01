@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+.footer{
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  color: black;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+  height: 120px ;
+}
+.link{
+  text-decoration: none;
+  color: #6b6ce6;
+}

@@ -18,15 +18,17 @@ function Bloc (){
                     style={{textDecoration:"none" ,color:"white"}}>
                     Computer Science </a>
                 </Button>
+
                 <Button
                     variant="contained" color="primary" size="small"
                     startIcon={<LocationCityIcon />}
                     ><a 
-                    target="_blank" rel="noopener noreferrer"
+                    target="_blank"  rel="noopener noreferrer"
                     href="https://drive.google.com/drive/u/0/folders/1-60bgBxHent4pGVKeMD8v-j6gQo-5MF1?fbclid=IwAR2RKDn4bb1IDy3qTV76Nsyta-WQHhi7RJDNmfEJmZrU9gnfRbkp2HiSHpY"
                     style={{textDecoration:"none" ,color:"white"}}>
-                    </a>Industrial
+                    Industrial</a>
                 </Button>
+
                 <Button
                     variant="contained" color="primary" size="small"
                     startIcon={<DonutLargeIcon />}
@@ -34,8 +36,9 @@ function Bloc (){
                     target="_blank" rel="noopener noreferrer"
                     href="https://drive.google.com/drive/u/0/folders/11jFNrv41fWdMhtWcpaimLpF-dpO8lNQz?sort=13&direction=a&fbclid=IwAR1Ctuegh5_EUNdV80dQ7CToeDahTTbEvbzMlBAMKHbfZiunZEHzveTxEPg"
                     style={{textDecoration:"none" ,color:"white"}}>
-                    </a>Mechanical
+                    Mechanical</a>
                 </Button>
+
                 <Button
                     variant="contained" color="primary" size="small"
                     startIcon={<ViewAgendaIcon />}
@@ -43,8 +46,9 @@ function Bloc (){
                     target="_blank" rel="noopener noreferrer"
                     href="https://drive.google.com/drive/u/0/folders/11jFNrv41fWdMhtWcpaimLpF-dpO8lNQz?sort=13&direction=a&fbclid=IwAR1Ctuegh5_EUNdV80dQ7CToeDahTTbEvbzMlBAMKHbfZiunZEHzveTxEPg"
                     style={{textDecoration:"none" ,color:"white"}}>
-                    </a>Civil & hydraulic 
+                    Civil & hydraulic </a>
                 </Button>
+
                 <Button
                     variant="contained" color="primary" size="small"
                     startIcon={<InsertChartIcon />}
@@ -52,8 +56,9 @@ function Bloc (){
                     target="_blank" rel="noopener noreferrer"
                     href="https://drive.google.com/drive/u/0/folders/0B_nMqhoN4D1rR0hOWEgwOG9zaWs?fbclid=IwAR1IwD58xCIZn7ebPYBKLu6dkU-OJSVMUTvzpyrf3HCmAJhJ6Eqp9gDPj_0"
                     style={{textDecoration:"none" ,color:"white"}}>
-                    </a>Advanced Technique
+                    Advanced Technique</a>
                 </Button>
+
             </div>
             
         </React.Fragment>

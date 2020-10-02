@@ -27,3 +27,9 @@
   text-decoration: none;
   color: #6b6ce6;
 }
+.bloc{
+  padding:5%;
+}
+.bloc Button{
+  margin: 2%;
+}

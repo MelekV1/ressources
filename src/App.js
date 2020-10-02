@@ -2,9 +2,7 @@ import React from 'react';
 import './App.css';
 import {Typography} from '@material-ui/core';
 import CodeIcon from '@material-ui/icons/Code';
-import ComputerIcon from '@material-ui/icons/Computer';
-import Button from '@material-ui/core/Button';
-
+import Bloc from "./Bloc"
 function App() {
   return (
     <div className="App">
@@ -13,20 +11,8 @@ function App() {
         <h1>Dear ENIT people</h1>
         <img alt="" src="enit.png" width="10%" height="10%"/>
       </header>
-
-      <Button
-        variant="contained"
-        color="primary"
-        size="small"
-        startIcon={<ComputerIcon />}
-        
-      ><a 
-      href=
-      "https://drive.google.com/drive/folders/0B5DxMtPdr4o3S2N1WW5hU2F2UVU"
-      style={{textDecoration:"none" ,color:"white"}}>
-        Informatique 1</a>
-        </Button>
-
+      <Bloc/>
+      
       <div className="footer">
           <Typography variant="body1" component="h2">
             Created by <CodeIcon font="small"/>

@@ -29,6 +29,8 @@
 }
 .bloc{
   padding:5%;
+  display: flex;
+  flex-direction: column;
 }
 .bloc Button{
   margin: 2%;

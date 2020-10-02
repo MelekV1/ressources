@@ -5,6 +5,9 @@ import LocationCityIcon from '@material-ui/icons/LocationCity';
 import DonutLargeIcon from '@material-ui/icons/DonutLarge';
 import ViewAgendaIcon from '@material-ui/icons/ViewAgenda';
 import InsertChartIcon from '@material-ui/icons/InsertChart';
+import BlurCircularIcon from '@material-ui/icons/BlurCircular';
+import AccountTreeIcon from '@material-ui/icons/AccountTree';
+import BarChartIcon from '@material-ui/icons/BarChart';
 function Bloc (){
     return (
         <React.Fragment>
@@ -60,6 +63,34 @@ function Bloc (){
                     style={{textDecoration:"none" ,color:"white"}}>
                     Advanced Technique</a>
                 </Button>
+                <Button
+                    variant="contained" color="primary" size="small"
+                    startIcon={<BlurCircularIcon />}
+                    ><a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://drive.google.com/drive/u/0/folders/1zxWX55wS_jfLMLnZy9OXbchxCz8ni8NW?fbclid=IwAR0b8ovjRvf7g1B6Q9UYCsiaAKZ6fO3t9S-QKQqoRbxbG2zqh_LIDSEl-Vg"
+                    style={{textDecoration:"none" ,color:"white"}}>
+                    Electrical</a>
+                </Button>
+                <Button
+                    variant="contained" color="primary" size="small"
+                    startIcon={<AccountTreeIcon />}
+                    ><a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://drive.google.com/drive/u/0/folders/0B8bUiFWXjAAyVjFscGV2Rmg0Zkk?fbclid=IwAR1oxgQ2YerV03EXKYDUzCXwl10ygVorfOBXWA43JOy6gvbO-QsIpgBqqD0"
+                    style={{textDecoration:"none" ,color:"white"}}>
+                    Telecommunication</a>
+                </Button>
+                <Button
+                    variant="contained" color="primary" size="small"
+                    startIcon={<BarChartIcon />}
+                    ><a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://drive.google.com/drive/u/0/folders/16gY31zE-bqv9XL5lhSSejNquO45WnkQA?fbclid=IwAR2Jlm-_zIKxLi-PzbcrJvDamOil9UgO3h93_qHaL97_cOKARbby4fDbFXg"
+                    style={{textDecoration:"none" ,color:"white"}}>
+                    Modelisation for industry</a>
+                </Button>    
+                 
 
             </div>
             

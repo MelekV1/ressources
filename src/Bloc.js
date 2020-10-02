@@ -8,7 +8,9 @@ import InsertChartIcon from '@material-ui/icons/InsertChart';
 function Bloc (){
     return (
         <React.Fragment>
-            <div className="bloc">
+            <div className="bloc" >
+            <h3>Always Great Because we built it together</h3>
+
                 <Button
                     variant="contained" color="primary" size="small"
                     startIcon={<ComputerIcon />}

@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img alt="" src="ieeesb.png" width="20%" height="20%"/>
+        <img alt="" src="ieeesbw.png" width="20%" height="20%"/>
         <h1>Dear ENIT people</h1>
         <img alt="" src="enit.png" width="10%" height="10%"/>
       </header>

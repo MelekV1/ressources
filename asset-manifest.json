@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ressources/static/css/main.fd177d15.chunk.css",
+    "main.css": "/ressources/static/css/main.0bc29ba6.chunk.css",
     "main.js": "/ressources/static/js/main.c4ddf7ae.chunk.js",
     "main.js.map": "/ressources/static/js/main.c4ddf7ae.chunk.js.map",
     "runtime-main.js": "/ressources/static/js/runtime-main.8e604b2a.js",
@@ -8,16 +8,16 @@
     "static/js/2.c639b5f3.chunk.js": "/ressources/static/js/2.c639b5f3.chunk.js",
     "static/js/2.c639b5f3.chunk.js.map": "/ressources/static/js/2.c639b5f3.chunk.js.map",
     "index.html": "/ressources/index.html",
-    "precache-manifest.1dacfe1d4cf7d3d47a5b625ace12fde3.js": "/ressources/precache-manifest.1dacfe1d4cf7d3d47a5b625ace12fde3.js",
+    "precache-manifest.7791f12e5727f687d3e2ac450717d5f1.js": "/ressources/precache-manifest.7791f12e5727f687d3e2ac450717d5f1.js",
     "service-worker.js": "/ressources/service-worker.js",
-    "static/css/main.fd177d15.chunk.css.map": "/ressources/static/css/main.fd177d15.chunk.css.map",
+    "static/css/main.0bc29ba6.chunk.css.map": "/ressources/static/css/main.0bc29ba6.chunk.css.map",
     "static/js/2.c639b5f3.chunk.js.LICENSE.txt": "/ressources/static/js/2.c639b5f3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ressources/static/media/orangeTexture.81d919c0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e604b2a.js",
     "static/js/2.c639b5f3.chunk.js",
-    "static/css/main.fd177d15.chunk.css",
+    "static/css/main.0bc29ba6.chunk.css",
     "static/js/main.c4ddf7ae.chunk.js"
   ]
 }

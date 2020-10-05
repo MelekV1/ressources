@@ -20,7 +20,7 @@ const Home=({props})=> {
                 <Tab label="1 ere Année"/>
                 <Tab label="2 eme Année"/>
                 <Tab label="3 eme Année"/>
-                <Tab label="Books"/>
+                <Tab label="External Ressources"/>
             </Tabs>
         </AppBar>
         {selectedTab === 0 && <Bloc/>}

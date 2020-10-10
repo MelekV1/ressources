@@ -9,7 +9,7 @@ import BlurCircularIcon from '@material-ui/icons/BlurCircular';
 import AccountTreeIcon from '@material-ui/icons/AccountTree';
 import BarChartIcon from '@material-ui/icons/BarChart';
 
-function Bloc (){
+function Bloc2 (){
     return (
         <React.Fragment>
             <div className="bloc" >
@@ -19,17 +19,18 @@ function Bloc (){
                     startIcon={<ComputerIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/folders/0B5DxMtPdr4o3S2N1WW5hU2F2UVU"
+                    href="https://drive.google.com/drive/folders/1cIZGA6iZKSHZ2Ipxdlmwz5kfhq_Dktwm"
+
                     style={{textDecoration:"none" ,color:"white"}}>
                     Computer Science </a>
                 </Button>
-
+{/*
                 <Button
                     variant="contained" color="primary" size="small"
                     startIcon={<LocationCityIcon />}
                     ><a 
                     target="_blank"  rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/1-60bgBxHent4pGVKeMD8v-j6gQo-5MF1?fbclid=IwAR2RKDn4bb1IDy3qTV76Nsyta-WQHhi7RJDNmfEJmZrU9gnfRbkp2HiSHpY"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Industrial</a>
                 </Button>
@@ -39,7 +40,7 @@ function Bloc (){
                     startIcon={<DonutLargeIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/11jFNrv41fWdMhtWcpaimLpF-dpO8lNQz?sort=13&direction=a&fbclid=IwAR1Ctuegh5_EUNdV80dQ7CToeDahTTbEvbzMlBAMKHbfZiunZEHzveTxEPg"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Mechanical</a>
                 </Button>
@@ -49,7 +50,7 @@ function Bloc (){
                     startIcon={<ViewAgendaIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/1C2TS5s5vjINmp1dUhNPbO6mFrG7JUm96?fbclid=IwAR2aXDUpUJQPt1FeDpSRSdoNRL5ijrWrGwDhoXfmfjccVw6_asQDjpNVh7cc"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Civil & hydraulic </a>
                 </Button>
@@ -59,7 +60,7 @@ function Bloc (){
                     startIcon={<InsertChartIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/0B_nMqhoN4D1rR0hOWEgwOG9zaWs?fbclid=IwAR1IwD58xCIZn7ebPYBKLu6dkU-OJSVMUTvzpyrf3HCmAJhJ6Eqp9gDPj_0"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Advanced Technique</a>
                 </Button>
@@ -68,7 +69,7 @@ function Bloc (){
                     startIcon={<BlurCircularIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/1zxWX55wS_jfLMLnZy9OXbchxCz8ni8NW?fbclid=IwAR0b8ovjRvf7g1B6Q9UYCsiaAKZ6fO3t9S-QKQqoRbxbG2zqh_LIDSEl-Vg"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Electrical</a>
                 </Button>
@@ -77,7 +78,7 @@ function Bloc (){
                     startIcon={<AccountTreeIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/0B8bUiFWXjAAyVjFscGV2Rmg0Zkk?fbclid=IwAR1oxgQ2YerV03EXKYDUzCXwl10ygVorfOBXWA43JOy6gvbO-QsIpgBqqD0"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Telecommunication</a>
                 </Button>
@@ -86,16 +87,16 @@ function Bloc (){
                     startIcon={<BarChartIcon />}
                     ><a 
                     target="_blank" rel="noopener noreferrer"
-                    href="https://drive.google.com/drive/u/0/folders/16gY31zE-bqv9XL5lhSSejNquO45WnkQA?fbclid=IwAR2Jlm-_zIKxLi-PzbcrJvDamOil9UgO3h93_qHaL97_cOKARbby4fDbFXg"
+                    href=""
                     style={{textDecoration:"none" ,color:"white"}}>
                     Modelisation for industry</a>
                 </Button>    
                  
-
+*/}
             </div>
             
         </React.Fragment>
     )
 }
-export default Bloc;
+export default Bloc2;
 

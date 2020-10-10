@@ -1,6 +1,7 @@
 import React from 'react';
 import {AppBar ,Tab,Tabs}from '@material-ui/core';
 import Bloc from "./Bloc"
+import Bloc2 from "./Bloc2"
 import Soon from "./soon"
 import Books from "./Books"
 const Home=({props})=> {
@@ -24,7 +25,7 @@ const Home=({props})=> {
             </Tabs>
         </AppBar>
         {selectedTab === 0 && <Bloc/>}
-        {selectedTab === 1 && <Soon/>}
+        {selectedTab === 1 && <Bloc2/>}
         {selectedTab === 2 && <Soon/>}
         {selectedTab === 3 && <Books/>}
 

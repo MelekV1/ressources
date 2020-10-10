@@ -8,8 +8,8 @@ function App() {
     <div className="App">
 
       <header className="App-header">
-        <img alt="" src="ieeesbw.png" width="20%" height="20%"/>
-        <h1>Dear ENIT people</h1>
+        <img alt="" src="ieeesbw.png" width="10%" height="20%"/>
+        <h3>Dear ENIT People</h3>
         <img alt="" src="enit.png" width="10%" height="10%"/>
       </header>
       <div className="slogan">

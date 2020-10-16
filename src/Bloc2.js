@@ -22,7 +22,7 @@ function Bloc2 (){
                     href="https://drive.google.com/drive/folders/1cIZGA6iZKSHZ2Ipxdlmwz5kfhq_Dktwm"
 
                     style={{textDecoration:"none" ,color:"white"}}>
-                    Computer Science </a>
+                   Software engineering  </a>
                 </Button>
 {/*
                 <Button

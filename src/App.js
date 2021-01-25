@@ -2,15 +2,17 @@ import React from 'react';
 import './App.css';
 import {Typography} from '@material-ui/core';
 import CodeIcon from '@material-ui/icons/Code';
-import Home from "./Home"
+import Home from "./Home";
+import ParticlesBg from 'particles-bg'
+
 function App() {
   return (
     <div className="App">
 
       <header className="App-header">
-        <img alt="" src="ieeesbw.png" width="10%" height="20%"/>
+        <img alt="IEEE ENIT SB" src="ieeesbw.png" width="200" height="200"/>
         <h3>Dear ENIT People</h3>
-        <img alt="" src="enit.png" width="10%" height="10%"/>
+        <img alt="ENIT" src="enit.png" width="100" height="100"/>
       </header>
       <div className="slogan">
         <h3>Always Great Because we built it together</h3>
@@ -22,7 +24,8 @@ function App() {
             Created by <CodeIcon font="small"/>
             <a className="link" href="https://www.linkedin.com/in/malek-ammar-924551148/" target="_blank" rel="noopener noreferrer"> Malek Ammar</a>
           </Typography>
-        </div>
+      </div>
+      <ParticlesBg type="circle" bg={true} />
     </div>
   );
 }

@@ -43,6 +43,33 @@ export default  function Books(){
                     style={{textDecoration:"none" ,color:"white"}}>
                     ENSI </a>
                 </Button>
+                <Button
+                    variant="contained" color="primary" size="small"
+                    startIcon={<AccountBalanceIcon />}
+                    ><a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://drive.google.com/drive/folders/1y4g6o-ueNbyW-IIuj7NS-uAavQYwJbGz?usp=sharing"
+                    style={{textDecoration:"none" ,color:"white"}}>
+                    ESEN </a>
+                </Button>
+                <Button
+                    variant="contained" color="primary" size="small"
+                    startIcon={<AccountBalanceIcon />}
+                    ><a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://drive.google.com/drive/u/1/folders/1G8rOQKw2d5SU-R_iCJp99V-DA699naty?fbclid=IwAR0TjA-hcGtwB6P6loBKVXbnfP0vYGZUvcP3Y_NFhGJcryalx_NJ3Zgr3bs"
+                    style={{textDecoration:"none" ,color:"white"}}>
+                    FST</a>
+                </Button>
+                <Button
+                    variant="contained" color="primary" size="small"
+                    startIcon={<AccountBalanceIcon />}
+                    ><a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://drive.google.com/drive/folders/1yC-2ds-TtzLdwahynocXhG1Drn9WZUQ_?fbclid=IwAR0u2gWmAqij8B_kEtXeSbKYAUq5lpOmkUVjFfGBv4tTm46jgd9T5sD3skY"
+                    style={{textDecoration:"none" ,color:"white"}}>
+                    Devops & Cloud </a>
+                </Button>
         </div>
     )
 }
